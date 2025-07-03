@@ -29,6 +29,9 @@ When a button is pressed, the corresponding LED lights up. When the button is re
 | GND | Common ground for buttons and LEDs |
 
 ![Wiring Diagram](diagram.png)
+![Wiring Diagram](red.png)
+![Wiring Diagram](green.png)
+![Wiring Diagram](blue.png)
 
 
 
