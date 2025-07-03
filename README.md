@@ -14,7 +14,7 @@ When a button is pressed, the corresponding LED lights up. When the button is re
 - Breadboard
 - RGB LEDs (or individual Red, Green, Blue LEDs)
 - Push buttons (x3)
-- 220Ω or 330Ω resistors (for each LED)
+- 220Ω for the LEDs and 10kΩ resistors for buttons 
 - Jumper wires
 
 ## ⚡ Wiring Diagram
