@@ -28,6 +28,9 @@ When a button is pressed, the corresponding LED lights up. When the button is re
 | 4 | Blue LED  |
 | GND | Common ground for buttons and LEDs |
 
+![Wiring Diagram](لقطة شاشة 2025-06-30 171120.jpg)
+
+
 
 ## 🔑 Code
 ```cpp
